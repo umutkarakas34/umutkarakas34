@@ -12,14 +12,14 @@
 </div>
 
 ## Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel)
 
 ## Social Media
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umutkarakas.uk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/umutkarakas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umutkarakas)
