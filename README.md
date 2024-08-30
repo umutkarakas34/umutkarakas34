@@ -1,4 +1,4 @@
-# Hi 👋! My name is Umut Karakas and I'm a developer from [Your Location]
+# Hi 👋! My name is Umut Karakas and I'm a developer from Turkiye
 
 <div style="display: flex; justify-content: space-between;">
    <div style="width: 48%; background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
