@@ -1,8 +1,14 @@
 # Hi 👋! My name is Umut Karakas and I'm a developer from [Your Location]
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=umutkarakas34&show_icons=true&theme=radical" alt="Umut Karakas GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkarakas34&layout=compact&theme=radical" alt="Top Langs" />
+<div style="display: flex; justify-content: space-between;">
+   <div style="width: 48%; background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
+       <h3>Umut Karakaş's GitHub Stats</h3>
+       <img src="https://github-readme-stats.vercel.app/api?username=umutkarakas34&show_icons=true&theme=radical" alt="Umut Karakas GitHub stats" style="width: 100%;"/>
+   </div>
+   <div style="width: 48%; background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
+       <h3>Most Used Languages</h3>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkarakas34&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;"/>
+   </div>
 </div>
 
 ## Tech Stack
@@ -24,4 +30,3 @@
 
 ## GitHub Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=umutkarakas34&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
-
