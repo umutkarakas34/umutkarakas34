@@ -1,12 +1,12 @@
 # Hi 👋! My name is Umut Karakaş
 # Backend Developer
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-   <div style="flex: 1; min-width: 300px; background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
+<div style="display: flex; justify-content: space-between;">
+   <div style="flex: 1; margin-right: 10px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
        <h3>Umut Karakaş's GitHub Stats</h3>
        <img src="https://github-readme-stats.vercel.app/api?username=umutkarakas34&show_icons=true&theme=radical" alt="Umut Karakas GitHub stats" style="width: 100%;"/>
    </div>
-   <div style="flex: 1; min-width: 300px; background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
+   <div style="flex: 1; margin-left: 10px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
        <h3>Most Used Languages</h3>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkarakas34&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;"/>
    </div>
