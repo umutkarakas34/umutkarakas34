@@ -5,9 +5,7 @@
    <div style="flex: 1; margin-right: 10px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
        <h3>Umut Karakaş's GitHub Stats</h3>
        <img src="https://github-readme-stats.vercel.app/api?username=umutkarakas34&show_icons=true&theme=radical" alt="Umut Karakas GitHub stats" style="width: 48%;"/>
-   </div>
-   <div style="flex: 1; margin-left: 10px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
-       <h3>Most Used Languages</h3>
+      <h3>Most Used Languages</h3>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkarakas34&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;"/>
    </div>
 </div>
