@@ -1,4 +1,3 @@
-# Hi 👋! My name is Umut Karakaş. I'm a Backend Developer
 
 <div style="display: flex; justify-content: space-between;">
    <div style="flex: 1; margin-right: 10px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
